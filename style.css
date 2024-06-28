@@ -9,7 +9,7 @@ body {
   min-height: 100vh;
   width: 100%;
   max-width: 960px;
-  background-color: black;
+  background-color: rgb(139, 130, 130);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,6 +23,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;  
+  outline: 2px solid black;
 }
 
 .grid-item {
